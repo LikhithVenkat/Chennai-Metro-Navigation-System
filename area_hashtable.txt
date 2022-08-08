@@ -1,0 +1,56 @@
+0,Navalur
+1,Thazhambur
+2,Semmanjeri
+3,Kovilancheri
+4,Perumbakkam
+5,Sholinganallur
+6,Medavakkam
+7,Tambaram
+8,Pallikaranai
+9,Kovilambakkam
+10, Thoraipakkam
+11,Chromepet
+12,Perungudi
+13,Madipakkam
+14,Pammal
+15,Nanganallur
+16,Velachery
+17,Thandalam
+18,Gerugambakkam
+19,Guindy
+20,Adyar
+21,Poonamalle
+22,Porur
+23,T.Nagar
+24,Nungambakkam
+25,Koyambedu
+26,Chennai Central
+27,Anna Nagar
+28,Ayappakkam
+29,Ambattur
+30,Puthagaram
+31,Perumbur
+32,Royapuram
+33,Tondiarpet
+34,Madhavaram
+35,Kadirvedu
+36,Mathur
+37,Tiruvottyur
+38,Manali
+39,Graniteline
+40,Padinallur
+41,Perungavoor
+42,Vichoor
+43,Edayanchavadi
+44,Ennore
+45,Athipatttu
+46,Kilpauk
+47,Egmore
+48,Vadapalani
+49,Mannady
+50,Nandanam
+51,Gopalapuram
+52,Selaiyur
+53,Thiruvanmiyur
+54,Adyar
+55,Besant Nagar

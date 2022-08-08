@@ -1,0 +1,101 @@
+Navalur,Thazhambur,3
+Thazhambur,Semmanjeri,5.3
+Navalur,Semmanjeri,2.3
+Semmanjeri,Kovilancheri,12
+Semmanjeri,Sholinganallur,5.6
+Semmanjeri,Perumbakkam,8.8
+Thazhambur,Kovilancheri,8.5
+Thazhambur,Perumbakkam,7.1
+Kovilancheri,Perumbakkam,3.5
+Kovilancheri,Selaiyur,6
+Perumbakkam,Selaiyur,9
+Perumbakkam,Sholinganallur,7.2
+Perumbakkam,Medavakkam,4.3
+Sholinganallur,Medavakkam,6.1
+Sholinganallur,Pallikaranai,7.4
+Selaiyur,Tambaram,6.8
+Selaiyur,Medavakkam,8
+Sholinganallur,Thoraipakkam,4.7
+Medavakkam,Pallikaranai,4.6
+Medavakkam,Kovilambakkam,3.6
+Medavakkam,Tambaram,10
+Tambaram,Chromepet,6.6
+Pallikaranai,Kovilambakkam,4.6
+Pallikaranai,Thoraipakkam,8
+Kovilambakkam,Chromepet,6.9
+Kovilambakkam,Thoraipakkam,8.4
+Tambaram,Pammal,7.9
+Chromepet,Pammal,4.3
+Chromepet,Madipakkam,8.4
+Chromepet,Nanganallur,9
+Kovilambakkam,Madipakkam,4
+Thoraipakkam,Perungudi,2.9
+Perungudi,Velachery,5.2
+Perungudi,Thiruvanmiyur,3.8
+Thiruvanmiyur,Besant Nagar,2.9
+Besant Nagar,Adyar,2.9
+Madipakkam,Velachery,4.4
+Madipakkam,Nanganallur,2.8
+Nanganallur,Velachery,6.5
+Nanganallur,Guindy,6.2
+Velachery,Guindy,3.9
+Velachery,Adyar,7.8
+Guindy,Adyar,5.5
+Guindy,Nandanam,4.3
+Nandanam,T.Nagar,2.4
+Pammal,Thandalam,4.7
+Thandalam,Gerugambakkam,3.3
+Gerugambakkam,Porur,4.2
+Porur,Poonamalle,8.2
+Gerugambakkam,Poonamalle,9.9
+Thandalam,Poonamalle,11
+T.Nagar,Gopalapuram,4.4
+Gopalapuram,Chennai Central,3.9
+Chennai Central,Mannady,8
+Mannady,Royapuram,2.5
+Vadapalani,Porur,6.4
+Koyambedu,Porur,8.2
+Nungambakkam,Kilpauk,4.4
+Vadapalani,Koyambedu,4.8
+Koyambedu,Anna Nagar,3.7
+Anna Nagar,Kilpauk,4.2
+Kilpauk,Egmore,3
+Egmore,Chennai Central,3.6
+Ayapakkam,Porur,11
+Ayapakkam,Koyambedu,11
+Ayapakkam,Anna Nagar,9.2
+Ayapakkam,Ambattur,3.9
+Ambattur,Puthagaram,5.3
+Puthagaram,Perumbur,6.1
+Perumbur,Anna Nagar,8.4
+Perumbur,Kilpauk,6.4
+Perumbur,Egmore,8
+Perumbur,Chennai Central,8.7
+Nungambakkam,Anna Nagar,5.6
+Royapuram,Tondiarpet,2.2
+Perumbur,Tondiarpet,9.3
+Perumbur,Madhavaram,4.7
+Perumbur,Kadirvedu,9.2
+Puthagaram,Kadirvedu,7.0
+Ambattur,Kadirvedu,9.1
+Madhavaram,Kadirvedu,6.2
+Tondiarpet,Tiruvottyur,5.1
+Madhavaram,Mathur,4.9
+Madhavaram,Graniteline,5.4
+Kadirvedu,Graniteline,6.6
+Mathur,Manali,4.0
+Manali,Tiruvottyur,7.3
+Graniteline,Padinallur,4.0
+Mathur,Graniteline,6.9
+Mathur,Vichoor,6.3
+Manali,Vichoor,6.5
+Manali,Edayanchavadi,2.9
+Edayanchavadi,Vichoor,6.4
+Vichoor,Perungavoor,3.9
+Graniteline,Perungavoor,3.7
+Graniteline,Vichoor,5.8
+Edayanchavadi,Ennore,11
+Edayanchavadi,Athipatttu,12
+Ennore,Athipatttu,8.2
+Ennore,Tiruvottyur,7.7
+Vadapalani,T.Nagar,3.6
